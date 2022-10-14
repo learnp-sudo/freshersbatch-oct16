@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ASSIGNMET Folder includes html files, css  and java script files 
 =======
 html files are used to design webpages and enter the data into it.
@@ -7,3 +8,6 @@ html files are used to design webpages and enter the data into it.
 =======
 css is used to design webpages in attractive manner like adding colours and fonts etc.
 >>>>>>> css-assignments
+=======
+java script is the most popular programming language of the web
+>>>>>>> js-assignments
