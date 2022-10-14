@@ -1,1 +1,1 @@
-ASSIGNMET Folder includes html files, css files and java script files
+html files are used to design webpages
