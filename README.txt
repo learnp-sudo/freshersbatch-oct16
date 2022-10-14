@@ -1,1 +1,1 @@
-ASSIGNMET Folder includes html files, css files and java script files
+ASSIGNMET Folder includes html files, css files and java script files the process goes on
